@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lms-authorization" />
+        <module name="common" />
+        <module name="lms-afpl-implementation" />
+        <module name="lms-portal-base-implementation" />
+        <module name="lms-portal-overdraftloan-implementation" />
+        <module name="lms-client" />
+        <module name="lms-collection" />
+        <module name="lms-portal" />
+        <module name="lms-loan-portal-implementation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
